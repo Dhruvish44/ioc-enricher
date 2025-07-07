@@ -1,6 +1,6 @@
 # IOC Enricher — Real-World SOC Analyst Tool 🔍
 
-> Built by Dhruvish | Tier 2 SOC Ready
+> Built by Dhruvish | Tier 1 SOC Ready
 
 This tool enriches Indicators of Compromise (IOCs) — IPs, hashes, and domains — using the VirusTotal API. Built to simulate real-world alert triage as done in a Security Operations Center (SOC).
 
