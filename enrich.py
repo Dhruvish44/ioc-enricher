@@ -4,7 +4,7 @@ import argparse
 import requests
 import sys
 
-API_KEY = "390b86143d52458ff6fc3c3d7bde3381a783a57869940ea6c914bb3fa727c1a1"  # Replace with your own key
+API_KEY = "VT_API_KEY"  # Replace with your own key
 BASE_URL = "https://www.virustotal.com/api/v3"
 
 HEADERS = {
