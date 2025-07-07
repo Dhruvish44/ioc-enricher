@@ -23,3 +23,8 @@ python enrich.py -i 8.8.8.8
 📊 Reputation Score: 549
 🌍 Country: US
 🦠 Malware Detections: 0 malicious, 0 suspicious, 62 harmless
+
+```
+## 📸 Sample Output
+
+![IOC Enricher Sample Output](ioc-enricher-sample-output.png)
